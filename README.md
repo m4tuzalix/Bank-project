@@ -1,7 +1,7 @@
 # Bank-project
 Banking application with many useful features. Application allows user to create account which is saved as indenpendent file. Each file contatins 9 lines of text which are responsisible for different things. Registration proccess requires login, password, secret question and secret answer. Additionaly each account has security code, automatically generated if user has registered account succesfully.
 
-In short application contains:
+In a nut-shell application contains:
 
 - deposit system
 - withdraw system
