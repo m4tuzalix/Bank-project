@@ -19,4 +19,3 @@ In a nutshell application contains:
 - admin chat system - Currently i'm working on it. System which allows user to check if any admin is online and if so, start the chat between user and admin account.
 
 
-I've been working on this application since one month. I'm beginner with short experiance with started in September of 2018. I've fallen in love in programming, especially in python and I spend most of my time doing it. I'm open for any critics or advices or maybe some further ideas regarding this application. 
